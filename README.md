@@ -1,6 +1,6 @@
 ### Hi  Everyone  , I'm Unknown4089863. 
 
-🏫 Currently Studied in College in Jammu 
+🏫 Currently Studied in College (Jammu) 
 
 
 
