@@ -1,6 +1,6 @@
-### Hi  Everyone  , I'm Amit. 
+### Hi , I'm Amit. 
 
-👋 Hi, I’m Student (From Jammu)<br>
+👋 I’m Student (From Jammu)<br>
 🏫 Currently Studied in College (Jammu) 
 
 
