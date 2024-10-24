@@ -23,7 +23,7 @@ Here are some of the technologies and languages I work with:
   - **Code Editor**: VSCode
 </details>
 
-<!-- <details> -->
+<details>
   <summary><strong>📊 GitHub Stats</strong></summary>
 
   <div align="center">
@@ -33,7 +33,7 @@ Here are some of the technologies and languages I work with:
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unknown4089863&layout=compact&theme=radical)](https://github.com/unknown4089863)
 
   </div>
-<!-- </details> -->
+</details>
 
 Thank you for visiting my GitHub! Let's connect and collaborate on exciting projects. 💻🚀
 
