@@ -35,8 +35,6 @@ Here are some of the technologies and languages I work with:
   </div>
 </details>
 
-<!-- Add more dynamic GitHub widgets or custom sections as needed -->
-
 Thank you for visiting my GitHub! Let's connect and collaborate on exciting projects. 💻🚀
 
 
